@@ -57,6 +57,7 @@ h1, h2, h3 {
     transition: background-color 0.9s ease;
     display: inline-block;
     opacity: 0.8;
+    font-weight: bold;
 }
 
 
