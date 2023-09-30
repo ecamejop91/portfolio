@@ -29,7 +29,7 @@ body {
    
     /*background-image: url('./IMG.jpg');*/
    background-image: url("./IMG.JPG");
-    background-size: 270%;
+    background-size: 350%;
     background-position: top;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -121,7 +121,7 @@ hr {
     margin-top: 100px;
     display: inline-block;
     width: 370px;
-    height: 450px;
+    height: 380px;
     background-color: hsl(0, 4%, 90%);
     opacity: 0.8;
     border-radius: 15px;
