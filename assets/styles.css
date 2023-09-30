@@ -117,10 +117,10 @@ hr {
  .red {
     padding: 25px;
     vertical-align: top;  /* Add this line */
-    margin: 30px;
+    margin: 40px;
     margin-top: 100px;
     display: inline-block;
-    width: 370px;
+    width: 420px;
     height: 380px;
     background-color: hsl(0, 4%, 90%);
     opacity: 0.8;
